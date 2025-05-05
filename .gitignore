@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Streamlit
+.streamlit/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints (jika pakai)
+.ipynb_checkpoints/
+
+# VS Code settings (jika pakai)
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log

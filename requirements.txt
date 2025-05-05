@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+altair
+flask
+pymongo
+flask-cors
+streamlit_autorefresh
+google-genai
+scikit-learn
+twilio
